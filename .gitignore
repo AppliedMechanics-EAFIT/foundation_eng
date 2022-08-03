@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Specific files
+/notebooks/mesh.geo
+/notebooks/mesh.msh
