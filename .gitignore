@@ -131,3 +131,4 @@ dmypy.json
 # Specific files
 /notebooks/mesh.geo
 /notebooks/mesh.msh
+notebooks/tests.py

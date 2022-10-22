@@ -5,6 +5,7 @@ Teaching tools for the foudation engineering class at EAFIT University.
 ## Contents
 
 1. [Flamant's problem: Line load on the surface (analytical and numerical solution)](./notebooks/flamants_line_load.ipynb)
+1. [Bearing capacity for shallow foundations (Hansen's formula)](./notebooks/bearing_capacity.ipynb)
 
 ## License
 
