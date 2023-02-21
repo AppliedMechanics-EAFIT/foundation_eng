@@ -132,3 +132,4 @@ dmypy.json
 /notebooks/mesh.geo
 /notebooks/mesh.msh
 notebooks/tests.py
+notebooks/slope_fem.ipynb
