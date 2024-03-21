@@ -133,3 +133,4 @@ dmypy.json
 /notebooks/mesh.msh
 notebooks/tests.py
 notebooks/slope_fem.ipynb
+notebooks/flamants_line_load_new_solidspy.ipynb
