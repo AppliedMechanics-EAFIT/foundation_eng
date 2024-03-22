@@ -4,9 +4,11 @@ Teaching tools for the foudation engineering class at EAFIT University.
 
 ## Contents
 
+1. [Mohr circle and stress paths](https://github.com/AppliedMechanics-EAFIT/slope_stability/blob/main/notebooks/mohr_circles_and_stress_paths.ipynb)
 1. [Flamant's problem: Line load on the surface (analytical and numerical solution)](./notebooks/flamants_line_load.ipynb)
 1. [Strip load problem: Uniformly distributed load on the surface (analytical and numerical solution)](./notebooks/uniformly_distrib_load.ipynb)
 1. [Bearing capacity for shallow foundations (Hansen's formula)](./notebooks/bearing_capacity.ipynb)
+1. [One-dimensional consolidation](https://github.com/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/consolidation_1D.ipynb)
 
 ## License
 
