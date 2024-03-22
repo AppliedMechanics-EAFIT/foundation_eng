@@ -9,6 +9,7 @@ Teaching tools for the foudation engineering class at EAFIT University.
 1. [Strip load problem: Uniformly distributed load on the surface (analytical and numerical solution)](./notebooks/uniformly_distrib_load.ipynb)
 1. [Bearing capacity for shallow foundations (Hansen's formula)](./notebooks/bearing_capacity.ipynb)
 1. [One-dimensional consolidation](https://github.com/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/consolidation_1D.ipynb)
+1. [Preconsolidation pressure / Yielding stress](https://github.com/AppliedMechanics-EAFIT/soil_mechanics/blob/main/notebooks/preconsol_pressure.ipynb)
 
 ## License
 
